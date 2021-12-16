@@ -21,7 +21,7 @@ npm install mysql
 
 ## Usage:
 Demo Video Link:
-https://watch.screencastify.com/v/ysAZakIutwVgUrqrRNqN
+https://watch.screencastify.com/v/alkLwlKVqvoro6gnt4rs
 
 ## Username:
 
